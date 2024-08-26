@@ -12,7 +12,8 @@ Extra=(
 )
 
 cosmic_package=( 
-  cosmic-applibrary
+  cosmic-session
+  
   cosmic-applets
   cosmic-bg
   cosmic-comp
@@ -24,7 +25,7 @@ cosmic_package=(
   cosmic-panel
   cosmic-randr
   cosmic-screenshot
-  cosmic-session
+
   cosmic-settings
   cosmic-settings-daemon
   cosmic-terminal
