@@ -37,6 +37,7 @@ cosmic_package=(
 # the following packages maybe omitted
 cosmicr_package_2=(
   cosmic-store
+  cosmic-app-library
 )
 
 
